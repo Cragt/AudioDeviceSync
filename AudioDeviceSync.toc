@@ -1,5 +1,6 @@
-## Interface: 120001
+## Interface: 16001
 ## Title: Audio Device Sync
+## Author: Daemonarian for classic, Forever fork by CragT
 ## Notes: Automatically re-sync the "System Default" audio device whenever it changes in Windows.
 ## Version: 1.1.0
 ## IconTexture: Interface\AddOns\AudioDeviceSync\Media\icon.tga
